@@ -1,0 +1,160 @@
+{
+  "slug": "the-sims-1",
+  "title": "Cheats de The Sims 1",
+  "order": 8,
+  "platforms": [
+    "PC"
+  ],
+  "franchise": "The Sims",
+  "excerpt": "Os cheats do primeiro The Sims (e da Legacy Collection): rosebud, o truque do ;!;!;! para dinheiro, move_objects e outros comandos.",
+  "content": "<p>Foi no <strong>The Sims 1</strong> que nasceu o cheat mais famoso dos simuladores: <strong>rosebud</strong>. Com a <strong>Legacy Collection</strong>, o clássico voltou para os PCs modernos, e o rosebud continua funcionando, inclusive o truque de repetir o comando com <strong>;!;!;!</strong>.</p>",
+  "data": {
+    "seo_title": "Cheats de The Sims 1: rosebud, truque do ;! e mais",
+    "seo_description": "Cheats do The Sims 1 e da Legacy Collection: rosebud, truque do ;! para dinheiro rápido, move_objects, set_hour e mais. Veja o que funciona no relançamento.",
+    "kicker": "Maxis / EA · 2000",
+    "developer": "Maxis",
+    "release": "2000",
+    "accent": "#159a91",
+    "updated": "2026-11-18",
+    "how_to": [
+      {
+        "title": "PC",
+        "steps": [
+          "Pressione <strong>Ctrl + Shift + C</strong> para abrir a caixa de cheats.",
+          "Digite o comando e aperte <strong>Enter</strong>.",
+          "Use <code>;</code> para encadear comandos e <code>!</code> para repetir o anterior."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "key": "cmd",
+        "label": "Comando",
+        "type": "text"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dinheiro",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "+§1.000 (rosebud)",
+            "effect": "Adiciona mil simoleons.",
+            "codes": {
+              "cmd": "rosebud"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "+§1.000 (klapaucius)",
+            "effect": "Mesmo efeito do rosebud nas versões originais com expansões.",
+            "codes": {
+              "cmd": "klapaucius"
+            },
+            "status": "a-confirmar",
+            "note": "Segundo guias da Legacy Collection, <strong>não funciona</strong> no relançamento: use rosebud."
+          },
+          {
+            "name": "Dinheiro em sequência",
+            "effect": "Cada <code>!</code> repete o comando anterior: aqui são +§5.000 de uma vez. Adicione mais <code>;!</code> para aumentar.",
+            "codes": {
+              "cmd": "rosebud;!;!;!;!"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Jogo e construção",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Mover qualquer objeto",
+            "effect": "Permite mover (e apagar) qualquer objeto, inclusive Sims.",
+            "codes": {
+              "cmd": "move_objects on"
+            },
+            "status": "a-confirmar",
+            "note": "Apagar um Sim com isso pode corromper a família. Cuidado."
+          },
+          {
+            "name": "Definir a hora",
+            "effect": "Muda a hora do dia (1 a 24).",
+            "codes": {
+              "cmd": "set_hour [1-24]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Velocidade do jogo",
+            "effect": "Ajusta a velocidade da simulação (-1000 a 1000).",
+            "codes": {
+              "cmd": "sim_speed [valor]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Autonomia dos Sims",
+            "effect": "Define o livre-arbítrio dos Sims (1 a 100).",
+            "codes": {
+              "cmd": "autonomy [1-100]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Crescer grama",
+            "effect": "Ajusta a grama do lote (0 a 150).",
+            "codes": {
+              "cmd": "grow_grass [0-150]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Ferramenta de água",
+            "effect": "Libera a ferramenta de água no Modo Construir.",
+            "codes": {
+              "cmd": "water_tool"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Editar o mapa",
+            "effect": "Ativa a edição do mapa do bairro.",
+            "codes": {
+              "cmd": "map_edit on"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Girar a câmera",
+            "effect": "Gira a câmera para um dos 4 ângulos (0 a 3).",
+            "codes": {
+              "cmd": "rotation [0-3]"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      }
+    ],
+    "tips": [
+      "O truque do <code>;!</code> é o jeito mais rápido de juntar dinheiro: copie, cole e aperte Enter várias vezes.",
+      "Na <strong>Legacy Collection</strong>, use <code>rosebud</code>: segundo guias do relançamento, o <code>klapaucius</code> não funciona e o <code>motherlode</code> nunca existiu no primeiro jogo."
+    ],
+    "faq": [
+      {
+        "q": "Qual o cheat de dinheiro do The Sims 1?",
+        "a": "rosebud dá +§1.000. Para ganhar mais de uma vez, use rosebud;!;!;!;! — cada ;! repete o comando. Na Legacy Collection, o klapaucius não funciona."
+      },
+      {
+        "q": "Como abrir os cheats no The Sims 1?",
+        "a": "Pressione Ctrl + Shift + C durante o jogo e digite o comando."
+      },
+      {
+        "q": "O motherlode funciona no The Sims 1?",
+        "a": "O motherlode surgiu no The Sims 2. No primeiro jogo, use rosebud ou klapaucius."
+      }
+    ],
+    "sources": []
+  }
+}

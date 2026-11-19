@@ -1,0 +1,14 @@
+---
+# Deploy do tema gameCrab via cPanel › Git Version Control.
+# O repositório é clonado fora do site (ex.: ~/repositories/gamecrab); este arquivo
+# copia só o que o WordPress precisa para a pasta do tema.
+# O dist/ já vai compilado no repositório (o servidor não roda Node/Parcel):
+# rode `npm run build` e faça commit do dist/ antes de cada deploy.
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/rafa3782/gamecrab.appmaster.com.br/wp-content/themes/gamecrab/
+    - /bin/mkdir -p $DEPLOYPATH
+    # dist/ tem nomes com hash: limpa antes para não acumular arquivos antigos
+    - /bin/rm -rf ${DEPLOYPATH}dist
+    - /bin/cp -f *.php style.css screenshot.png $DEPLOYPATH
+    - /bin/cp -Rf inc template-parts assets dist data $DEPLOYPATH

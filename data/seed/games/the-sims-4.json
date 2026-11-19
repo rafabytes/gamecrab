@@ -1,0 +1,391 @@
+{
+  "slug": "the-sims-4",
+  "title": "Cheats de The Sims 4",
+  "order": 3,
+  "platforms": [
+    "PC",
+    "Mac",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "franchise": "The Sims",
+  "excerpt": "Todos os cheats de The Sims 4 explicados: dinheiro (motherlode), testingcheats, bb.moveobjects, habilidades, carreiras, relacionamentos e Criar um Sim.",
+  "content": "<p>Os <strong>cheats de The Sims 4</strong> são comandos digitados no console do jogo. O mais famoso é o <strong>motherlode</strong> (+§50.000), mas há muito mais: construir sem limites com <strong>bb.moveobjects</strong>, editar traços no CAS, subir habilidades e carreiras no máximo e até controlar relacionamentos.</p><p>Vários comandos só funcionam com o modo de testes ligado: digite <strong>testingcheats true</strong> antes. Clique em <strong>Copiar</strong> em qualquer código e cole direto no console.</p>",
+  "data": {
+    "seo_title": "Cheats de The Sims 4: dinheiro, construção, habilidades e mais",
+    "seo_description": "Lista completa de cheats de The Sims 4 para PC, Mac e console: motherlode, testingcheats, bb.moveobjects, habilidades, carreiras e relacionamentos.",
+    "kicker": "Maxis / EA · 2014",
+    "developer": "Maxis",
+    "release": "2014",
+    "accent": "#1f9d4c",
+    "updated": "2026-11-18",
+    "notice": {
+      "tone": "info",
+      "title": "Ative o modo de testes primeiro",
+      "text": "Vários comandos exigem <code>testingcheats true</code>. No console (PS4/Xbox One), os cheats que dependem dele <strong>desativam troféus/conquistas daquele save</strong>; cheats de construção não."
+    },
+    "how_to": [
+      {
+        "title": "PC",
+        "steps": [
+          "Pressione <strong>Ctrl + Shift + C</strong> para abrir a barra de cheats no topo da tela.",
+          "Digite o comando e aperte <strong>Enter</strong>."
+        ]
+      },
+      {
+        "title": "Mac",
+        "steps": [
+          "Pressione <strong>Command + Shift + C</strong>.",
+          "Digite o comando e aperte <strong>Return</strong>."
+        ]
+      },
+      {
+        "title": "PS4 / Xbox One",
+        "steps": [
+          "Segure os quatro gatilhos ao mesmo tempo: <strong>L1 + L2 + R1 + R2</strong> (PlayStation) ou <strong>LB + LT + RB + RT</strong> (Xbox).",
+          "Se o cheat exigir <code>testingcheats true</code>, as conquistas/troféus daquele save serão desativados. Cheats de construção não afetam.",
+          "Digite o comando no teclado virtual.",
+          "Para o Shift + clique no console: segure <strong>○ + ✕</strong> (PS4) ou <strong>B + A</strong> (Xbox One)."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "key": "cmd",
+        "label": "Comando",
+        "type": "text"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dinheiro",
+        "intro": "Substitua <code>[valor]</code> pelo número desejado, sem pontos.",
+        "cheats": [
+          {
+            "name": "+§50.000 (motherlode)",
+            "effect": "Adiciona 50 mil simoleons à família ativa.",
+            "codes": {
+              "cmd": "motherlode"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "+§1.000 (kaching)",
+            "effect": "Adiciona mil simoleons.",
+            "codes": {
+              "cmd": "kaching"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "+§1.000 (rosebud)",
+            "effect": "Mesmo efeito do kaching.",
+            "codes": {
+              "cmd": "rosebud"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Definir dinheiro exato",
+            "effect": "Define o saldo exato da família. Ex.: <code>money 1000000</code>.",
+            "codes": {
+              "cmd": "money [valor]"
+            },
+            "status": "confirmado",
+            "note": "Exige <code>testingcheats true</code>."
+          },
+          {
+            "name": "Casas e lotes de graça",
+            "effect": "Todas as casas e lotes ficam de graça. Digite na tela do mundo/bairro.",
+            "codes": {
+              "cmd": "FreeRealEstate on"
+            },
+            "status": "confirmado",
+            "note": "Desligue com <code>FreeRealEstate off</code>."
+          },
+          {
+            "name": "Contas pagas automaticamente",
+            "effect": "As contas da casa são debitadas sozinhas.",
+            "codes": {
+              "cmd": "household.autopay_bills true"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Construção e Modo Comprar",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Mover objetos livremente",
+            "effect": "Posiciona objetos sem restrição de grade ou colisão.",
+            "codes": {
+              "cmd": "bb.moveobjects on"
+            },
+            "status": "confirmado",
+            "note": "Desligue com <code>bb.moveobjects off</code>."
+          },
+          {
+            "name": "Objetos de depuração",
+            "effect": "Mostra no catálogo os objetos ocultos (debug).",
+            "codes": {
+              "cmd": "bb.showhiddenobjects"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Objetos do mundo (live edit)",
+            "effect": "Mostra no catálogo objetos usados nos cenários do mundo.",
+            "codes": {
+              "cmd": "bb.showliveeditobjects"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Desbloquear itens de carreira",
+            "effect": "Libera no Modo Comprar os objetos de recompensa de carreira.",
+            "codes": {
+              "cmd": "bb.ignoregameplayunlocksentitlement"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Construir em qualquer lote",
+            "effect": "Permite editar lotes normalmente bloqueados.",
+            "codes": {
+              "cmd": "bb.enablefreebuild"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Sims e necessidades",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Modo de testes",
+            "effect": "Liga o modo de testes, base para vários cheats. Com ele ligado, Shift + clique no Sim abre opções extras.",
+            "codes": {
+              "cmd": "testingcheats true"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Encher necessidades do Sim ativo",
+            "effect": "Enche todas as necessidades do Sim selecionado.",
+            "codes": {
+              "cmd": "sims.fill_all_commodities"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Encher necessidades da família",
+            "effect": "Enche as necessidades de todos os Sims da família ativa.",
+            "codes": {
+              "cmd": "stats.fill_all_commodities_household"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Editar tudo no CAS",
+            "effect": "Libera a edição completa no Criar um Sim (inclusive de Sims já existentes).",
+            "codes": {
+              "cmd": "cas.fulleditmode"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Pontos de satisfação",
+            "effect": "Dá pontos de satisfação para recompensas de aspiração. Ex.: <code>sims.give_satisfaction_points 5000</code>.",
+            "codes": {
+              "cmd": "sims.give_satisfaction_points [valor]"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Completar etapa da aspiração",
+            "effect": "Conclui a etapa atual da aspiração do Sim ativo.",
+            "codes": {
+              "cmd": "aspirations.complete_current_milestone"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Adicionar traço",
+            "effect": "Adiciona um traço ao Sim ativo (nome interno do traço).",
+            "codes": {
+              "cmd": "traits.equip_trait [traço]"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Remover traço",
+            "effect": "Remove um traço do Sim ativo.",
+            "codes": {
+              "cmd": "traits.remove_trait [traço]"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Remover todos os moodlets",
+            "effect": "Limpa as emoções/buffs do Sim ativo.",
+            "codes": {
+              "cmd": "sims.remove_all_buffs"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Destravar Sim bugado",
+            "effect": "Reinicia um Sim travado. Ex.: <code>resetSim Bella Goth</code>.",
+            "codes": {
+              "cmd": "resetSim [Nome] [Sobrenome]"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Ligar/desligar a morte",
+            "effect": "Desativa a morte dos Sims.",
+            "codes": {
+              "cmd": "death.toggle false"
+            },
+            "status": "confirmado",
+            "note": "Reative com <code>death.toggle true</code>."
+          }
+        ]
+      },
+      {
+        "title": "Habilidades e carreiras",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Definir nível de habilidade",
+            "effect": "Ex.: <code>stats.set_skill_level Major_Cooking 10</code>. Outros nomes: Major_Charisma, Major_Fitness, Major_Logic, Major_Writing, Major_Painting, Major_Programming, Major_Gardening, Major_Handiness, Major_Guitar, Major_Piano, Major_Violin, Major_Comedy, Major_Mischief, Major_Fishing, Major_Photography, Major_VideoGaming, Major_RocketScience, Major_GourmetCooking, Major_Bartending.",
+            "codes": {
+              "cmd": "stats.set_skill_level [habilidade] [nível]"
+            },
+            "status": "a-confirmar",
+            "note": "Exige <code>testingcheats true</code>. Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Promover na carreira",
+            "effect": "Promove o Sim na carreira indicada. Ex.: <code>careers.promote Astronaut</code>.",
+            "codes": {
+              "cmd": "careers.promote [carreira]"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Rebaixar na carreira",
+            "effect": "Rebaixa o Sim na carreira indicada.",
+            "codes": {
+              "cmd": "careers.demote [carreira]"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Sair da carreira",
+            "effect": "Remove o Sim da carreira indicada.",
+            "codes": {
+              "cmd": "careers.remove_career [carreira]"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Relacionamentos",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Conhecer todo mundo",
+            "effect": "Apresenta o Sim ativo a todos os Sims do jogo.",
+            "codes": {
+              "cmd": "relationship.introduce_sim_to_all_others"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Amizade no máximo",
+            "effect": "Define a amizade entre dois Sims.",
+            "codes": {
+              "cmd": "modifyrelationship [Nome1] [Sobrenome1] [Nome2] [Sobrenome2] 100 LTR_Friendship_Main"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Romance no máximo",
+            "effect": "Define o romance entre dois Sims.",
+            "codes": {
+              "cmd": "modifyrelationship [Nome1] [Sobrenome1] [Nome2] [Sobrenome2] 100 LTR_Romance_Main"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          }
+        ]
+      },
+      {
+        "title": "Interface",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Esconder diamante e balões",
+            "effect": "Oculta o plumbob e os balões de pensamento (ótimo para prints).",
+            "codes": {
+              "cmd": "headlineeffects off"
+            },
+            "status": "a-confirmar",
+            "note": "Reative com <code>headlineeffects on</code>. Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          },
+          {
+            "name": "Desligar destaque ao passar o mouse",
+            "effect": "Remove o contorno de objetos sob o cursor.",
+            "codes": {
+              "cmd": "hovereffects off"
+            },
+            "status": "a-confirmar",
+            "note": "Não consta na lista oficial da EA; amplamente usado pela comunidade."
+          }
+        ]
+      }
+    ],
+    "tips": [
+      "Com <code>testingcheats true</code>, clique e arraste as barras de necessidade do Sim para enchê-las.",
+      "Com <code>testingcheats true</code>, Shift + clique no Sim abre opções como “Make Happy” e “Teleport Me Here”."
+    ],
+    "faq": [
+      {
+        "q": "Qual o cheat de dinheiro do The Sims 4?",
+        "a": "motherlode dá +§50.000. kaching e rosebud dão +§1.000. Para um valor exato, use money [valor] (ex.: money 1000000)."
+      },
+      {
+        "q": "Como abrir a barra de cheats no The Sims 4?",
+        "a": "No PC, Ctrl + Shift + C. No Mac, Command + Shift + C. No PS4/Xbox One, segure os quatro gatilhos ao mesmo tempo."
+      },
+      {
+        "q": "Cheats desativam conquistas no The Sims 4?",
+        "a": "No console, sim: cheats que exigem testingcheats true desativam troféus/conquistas apenas naquele save. Cheats de construção (bb.) não afetam."
+      },
+      {
+        "q": "Para que serve o testingcheats true?",
+        "a": "Liga o modo de testes, necessário para vários comandos (habilidades, pontos de satisfação) e para as opções de Shift + clique no Sim."
+      },
+      {
+        "q": "Como mover objetos livremente no The Sims 4?",
+        "a": "Digite bb.moveobjects on para ignorar grade e colisão; desligue com bb.moveobjects off."
+      }
+    ],
+    "sources": [
+      {
+        "label": "EA — The Sims 4 Cheats (FAQ oficial)",
+        "url": "https://www.ea.com/games/the-sims/the-sims-4/faq/cheats"
+      }
+    ]
+  }
+}

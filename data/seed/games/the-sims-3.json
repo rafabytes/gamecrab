@@ -1,0 +1,196 @@
+{
+  "slug": "the-sims-3",
+  "title": "Cheats de The Sims 3",
+  "order": 6,
+  "platforms": [
+    "PC",
+    "Mac"
+  ],
+  "franchise": "The Sims",
+  "excerpt": "Cheats de The Sims 3 para PC e Mac: motherlode, familyfunds, testingcheatsenabled, moveobjects, buydebug e outros comandos úteis.",
+  "content": "<p>O <strong>The Sims 3</strong> trouxe o mundo aberto, e com ele um console de cheats poderoso. Além do clássico <strong>motherlode</strong>, dá para definir o dinheiro exato com <strong>familyfunds</strong>, encher necessidades com <strong>testingcheatsenabled</strong> e decorar sem limites com <strong>moveobjects</strong>.</p>",
+  "data": {
+    "seo_title": "Cheats de The Sims 3 (PC e Mac): dinheiro, construção e mais",
+    "seo_description": "Todos os cheats de The Sims 3: motherlode, kaching, familyfunds, testingcheatsenabled, moveobjects e buydebug. Veja como abrir o console no PC e Mac.",
+    "kicker": "Maxis / EA · 2009",
+    "developer": "Maxis",
+    "release": "2009",
+    "accent": "#2a86cf",
+    "updated": "2026-11-18",
+    "how_to": [
+      {
+        "title": "PC e Mac",
+        "steps": [
+          "Pressione <strong>Ctrl + Shift + C</strong> (no Mac: <strong>Command + Shift + C</strong>).",
+          "Uma barra azul aparece no topo da tela. Digite o comando e aperte <strong>Enter</strong>.",
+          "Digite <code>help</code> para ver a lista de comandos do próprio jogo."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "key": "cmd",
+        "label": "Comando",
+        "type": "text"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dinheiro",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "+§50.000 (motherlode)",
+            "effect": "Adiciona 50 mil simoleons.",
+            "codes": {
+              "cmd": "motherlode"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "+§1.000 (kaching)",
+            "effect": "Adiciona mil simoleons.",
+            "codes": {
+              "cmd": "kaching"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Definir dinheiro da família",
+            "effect": "Define o saldo exato. Ex.: <code>familyfunds Silva 1000000</code>.",
+            "codes": {
+              "cmd": "familyfunds [Sobrenome] [valor]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Lotes de graça",
+            "effect": "Comprar casa ou lote sai de graça. Digite antes de escolher o lote.",
+            "codes": {
+              "cmd": "freerealestate"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      },
+      {
+        "title": "Construção e Modo Comprar",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Mover objetos livremente",
+            "effect": "Coloca objetos em qualquer lugar, ignorando restrições (inclusive em cima de outros objetos).",
+            "codes": {
+              "cmd": "moveobjects on"
+            },
+            "status": "a-confirmar",
+            "note": "Cuidado: com ele ligado, dá para apagar Sims e objetos do jogo."
+          },
+          {
+            "name": "Catálogo de depuração",
+            "effect": "Libera a categoria “Debug” no Modo Comprar, com objetos ocultos.",
+            "codes": {
+              "cmd": "buydebug on"
+            },
+            "status": "a-confirmar",
+            "note": "Exige <code>testingcheatsenabled true</code>."
+          },
+          {
+            "name": "Altura de piso livre",
+            "effect": "Remove o limite de elevação/rebaixamento do terreno e dos pisos.",
+            "codes": {
+              "cmd": "constrainfloorelevation false"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Sem encaixe automático",
+            "effect": "Objetos deixam de “grudar” em slots de mesas e balcões.",
+            "codes": {
+              "cmd": "disablesnappingobjectstoslots on"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      },
+      {
+        "title": "Sims e jogo",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Modo de testes",
+            "effect": "Permite arrastar as barras de necessidade e abre opções extras com Shift + clique.",
+            "codes": {
+              "cmd": "testingcheatsenabled true"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Destravar Sim bugado",
+            "effect": "Reinicia um Sim travado e o leva para casa.",
+            "codes": {
+              "cmd": "resetsim [Nome] [Sobrenome]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Liberar roupas de carreira",
+            "effect": "Mostra no CAS as roupas de carreira e outras ocultas.",
+            "codes": {
+              "cmd": "unlockoutfits on"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Esconder diamante e balões",
+            "effect": "Oculta o plumbob e balões de pensamento.",
+            "codes": {
+              "cmd": "hideheadlineeffects on"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Câmera lenta das animações",
+            "effect": "Desacelera as animações (0 = normal, 8 = mais lento).",
+            "codes": {
+              "cmd": "slowmotionviz [0-8]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Lista de comandos",
+            "effect": "Mostra todos os cheats disponíveis.",
+            "codes": {
+              "cmd": "help"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      }
+    ],
+    "tips": [
+      "Para dinheiro ilimitado de verdade, prefira <code>familyfunds</code>: ele define o valor exato de uma vez.",
+      "Com <code>testingcheatsenabled true</code>, arraste as barras de necessidade para cima para enchê-las."
+    ],
+    "faq": [
+      {
+        "q": "Qual o cheat de dinheiro do The Sims 3?",
+        "a": "motherlode (+§50.000), kaching (+§1.000) ou familyfunds [Sobrenome] [valor] para definir o saldo exato."
+      },
+      {
+        "q": "Como abrir o console de cheats no The Sims 3?",
+        "a": "Ctrl + Shift + C no PC ou Command + Shift + C no Mac."
+      },
+      {
+        "q": "Como encher as necessidades no The Sims 3?",
+        "a": "Ative testingcheatsenabled true e arraste as barras de necessidade do Sim até o topo."
+      }
+    ],
+    "sources": [],
+    "notice": {
+      "tone": "info",
+      "title": "Em verificação",
+      "text": "Estes comandos são amplamente divulgados pela comunidade e estão na fila de testes da equipe gameCrab. O status será atualizado após o teste."
+    }
+  }
+}

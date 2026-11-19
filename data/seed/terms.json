@@ -1,0 +1,17 @@
+{
+  "franquia": {
+    "GTA": { "slug": "gta", "description": "Cheats de toda a série Grand Theft Auto: GTA 6, GTA 5 e GTA San Andreas, com sequências para PlayStation, Xbox e PC." },
+    "The Sims": { "slug": "the-sims", "description": "Cheats de The Sims 1, 2, 3 e 4: dinheiro, construção, necessidades, habilidades e relacionamentos." },
+    "Roblox": { "slug": "roblox", "description": "Códigos de jogos do Roblox, como Dress to Impress, com recompensas e status atualizados." }
+  },
+  "plataforma": {
+    "PlayStation 5": { "slug": "ps5", "description": "Cheats e códigos para PlayStation 5." },
+    "PlayStation 4": { "slug": "ps4", "description": "Cheats e códigos para PlayStation 4." },
+    "PlayStation 2": { "slug": "ps2", "description": "Cheats clássicos de PlayStation 2." },
+    "Xbox Series X|S": { "slug": "xbox-series", "description": "Cheats e códigos para Xbox Series X|S." },
+    "Xbox One": { "slug": "xbox-one", "description": "Cheats e códigos para Xbox One." },
+    "PC": { "slug": "pc", "description": "Cheats e comandos de console para PC." },
+    "Mac": { "slug": "mac", "description": "Cheats e comandos para Mac." },
+    "Roblox": { "slug": "roblox", "description": "Códigos de jogos do Roblox." }
+  }
+}

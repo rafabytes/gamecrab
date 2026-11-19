@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "sobre",
+    "title": "Sobre o gameCrab",
+    "excerpt": "Um guia de cheats públicos, organizados por jogo e por plataforma, para você achar o código certo sem enrolação.",
+    "content": "<p>O <strong>gameCrab</strong> é um projeto da <strong>appMaster</strong> com um propósito simples: entregar a melhor experiência para quem está procurando códigos e cheats de um jogo específico.</p><h2>O código certo, na sua plataforma</h2><p>O mesmo jogo costuma sair para PlayStation, Xbox, PC, celular ou Roblox, e cada plataforma tem a sua sequência de botões, o seu comando ou o seu jeito de ativar. Por isso, cada página do gameCrab é organizada <strong>por jogo e por plataforma</strong>. Você escolhe onde joga, vê só o que serve, copia o código com um toque e confere o passo a passo para ativar.</p><h2>Transparência em cada código</h2><p>Todo código tem um <strong>selo de status</strong> (testado, confirmado, a confirmar ou expirado) e cada página lista as fontes consultadas. Você sabe exatamente em que pode confiar.</p><h2>O que somos (e o que não somos)</h2><p>O gameCrab é um <strong>site de divulgação</strong>. Não vendemos, distribuímos nem recomendamos programas, acessórios, mods ou qualquer ferramenta que altere jogos ou consoles. Todo código publicado aqui é um <strong>cheat público</strong>, aceito pelo próprio jogo e divulgado pelas desenvolvedoras ou pela comunidade.</p><h2>Por que um caranguejo?</h2><p>A identidade visual homenageia os discos de cheat dos anos 90, que expandiam a experiência dos jogadores além dos limites. O caranguejo é o nosso mascote: anda de lado e sempre encontra um atalho, como um bom cheat. O site tem dois temas inspirados nos discos clássicos, o <strong>disco prata</strong> (modo dia) e o <strong>disco preto</strong> (modo noite); alterne pelo botão no topo da página.</p>"
+  },
+  {
+    "slug": "como-verificamos",
+    "title": "Como verificamos os cheats",
+    "excerpt": "Cada código do gameCrab tem um status. Veja o que cada um significa.",
+    "content": "<p>Cheat que não funciona é frustrante. Por isso, cada código no gameCrab carrega um <strong>selo de status</strong>:</p><ul><li><strong>Testado</strong>: a equipe gameCrab testou o código no jogo.</li><li><strong>Confirmado</strong>: o código aparece em fontes oficiais (como as páginas de suporte das publicadoras) ou em mais de um guia confiável.</li><li><strong>A confirmar</strong>: o código foi divulgado por uma fonte, mas ainda não tem confirmação independente, ou as fontes discordam.</li><li><strong>Expirado</strong>: o código deixou de funcionar (comum em códigos de Roblox).</li></ul><h2>Fontes</h2><p>No fim de cada página listamos as fontes consultadas. Damos preferência a páginas oficiais e a guias especializados com histórico de atualização.</p><h2>Achou um erro?</h2><p>Os jogos mudam com atualizações e relançamentos. Se um código não funcionou para você, avise a gente pelos canais da appMaster: corrigimos e atualizamos a data da página.</p>"
+  },
+  {
+    "slug": "politica-de-privacidade",
+    "title": "Política de privacidade",
+    "excerpt": "Como o gameCrab trata seus dados.",
+    "content": "<p>O gameCrab <strong>não tem cadastro de usuários</strong> e não coleta dados pessoais por formulários.</p><h2>Preferências salvas no seu navegador</h2><p>Guardamos apenas preferências de interface no armazenamento local do seu navegador (<code>localStorage</code>): o tema escolhido (dia ou noite) e a plataforma preferida nas listas de cheats. Esses dados não saem do seu dispositivo e podem ser apagados limpando os dados do site no navegador.</p><h2>Links externos</h2><p>Indicamos fontes externas em cada página. Ao acessá-las, vale a política de privacidade de cada site.</p><h2>Alterações</h2><p>Esta política pode ser atualizada conforme o projeto evolui, por exemplo se passarmos a usar ferramentas de análise de audiência. Mudanças relevantes serão informadas aqui.</p>"
+  }
+]

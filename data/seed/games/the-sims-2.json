@@ -1,0 +1,190 @@
+{
+  "slug": "the-sims-2",
+  "title": "Cheats de The Sims 2",
+  "order": 7,
+  "platforms": [
+    "PC",
+    "Mac"
+  ],
+  "franchise": "The Sims",
+  "excerpt": "Cheats de The Sims 2 (incluindo a Legacy Collection): motherlode, familyfunds, maxmotives, aging off, moveobjects e outros comandos.",
+  "content": "<p>O <strong>The Sims 2</strong> voltou com a <strong>Legacy Collection</strong>, e os cheats continuam os mesmos. Use <strong>motherlode</strong> para dinheiro, <strong>maxmotives</strong> para encher as necessidades e <strong>aging off</strong> para congelar o envelhecimento.</p>",
+  "data": {
+    "seo_title": "Cheats de The Sims 2: dinheiro, necessidades e construção",
+    "seo_description": "Cheats de The Sims 2 e Legacy Collection: motherlode, familyfunds, maxmotives, aging off, moveobjects, boolprop e mais. Veja como ativar no PC.",
+    "kicker": "Maxis / EA · 2004",
+    "developer": "Maxis",
+    "release": "2004",
+    "accent": "#6d4fe0",
+    "updated": "2026-11-18",
+    "how_to": [
+      {
+        "title": "PC e Mac",
+        "steps": [
+          "Pressione <strong>Ctrl + Shift + C</strong> (no Mac: <strong>Command + Shift + C</strong>).",
+          "Digite o comando na barra que aparece no topo e aperte <strong>Enter</strong>.",
+          "Digite <code>help</code> para listar os comandos disponíveis."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "key": "cmd",
+        "label": "Comando",
+        "type": "text"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dinheiro",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "+§50.000 (motherlode)",
+            "effect": "Adiciona 50 mil simoleons.",
+            "codes": {
+              "cmd": "motherlode"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "+§1.000 (kaching)",
+            "effect": "Adiciona mil simoleons.",
+            "codes": {
+              "cmd": "kaching"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Definir dinheiro da família",
+            "effect": "Define o saldo exato. Ex.: <code>familyfunds Silva 500000</code>.",
+            "codes": {
+              "cmd": "familyfunds [Sobrenome] [valor]"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Sims e necessidades",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Encher necessidades",
+            "effect": "Enche todas as necessidades dos Sims do lote.",
+            "codes": {
+              "cmd": "maxmotives"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Necessidades não caem",
+            "effect": "Congela a queda das necessidades. Ligue de novo com <code>motivedecay on</code>.",
+            "codes": {
+              "cmd": "motivedecay off"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Desligar envelhecimento",
+            "effect": "Os Sims param de envelhecer.",
+            "codes": {
+              "cmd": "aging off"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Modo de testes",
+            "effect": "Libera opções de depuração com Shift + clique e permite ajustar necessidades.",
+            "codes": {
+              "cmd": "boolprop testingcheatsenabled true"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Liberar recompensas de carreira",
+            "effect": "Desbloqueia os objetos de recompensa de carreira para a família.",
+            "codes": {
+              "cmd": "unlockcareerrewards"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Esticar o esqueleto",
+            "effect": "Muda a altura dos Sims (1 = normal).",
+            "codes": {
+              "cmd": "stretchskeleton [valor]"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Câmera lenta",
+            "effect": "Desacelera as animações (0 = normal, 8 = mais lento).",
+            "codes": {
+              "cmd": "slowmotion [0-8]"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      },
+      {
+        "title": "Construção",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Mover objetos livremente",
+            "effect": "Move qualquer objeto, ignorando restrições.",
+            "codes": {
+              "cmd": "moveobjects on"
+            },
+            "status": "a-confirmar",
+            "note": "Com ele ligado dá para apagar Sims e objetos importantes. Use com cuidado."
+          },
+          {
+            "name": "Altura de piso livre",
+            "effect": "Remove o limite de elevação do terreno e dos pisos.",
+            "codes": {
+              "cmd": "boolprop constrainfloorelevation false"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Objetos fora da grade",
+            "effect": "Objetos deixam de encaixar na grade.",
+            "codes": {
+              "cmd": "boolprop snapobjectstogrid false"
+            },
+            "status": "a-confirmar"
+          },
+          {
+            "name": "Girar objetos em 45°",
+            "effect": "Permite girar objetos na diagonal (use , e . para girar).",
+            "codes": {
+              "cmd": "boolprop allow45degreeangleofrotation true"
+            },
+            "status": "a-confirmar"
+          }
+        ]
+      }
+    ],
+    "tips": [
+      "Na <strong>Legacy Collection</strong> os comandos funcionam do mesmo jeito.",
+      "<code>maxmotives</code> afeta todos os Sims do lote atual, não só o selecionado."
+    ],
+    "faq": [
+      {
+        "q": "Qual o cheat de dinheiro do The Sims 2?",
+        "a": "motherlode (+§50.000), kaching (+§1.000) ou familyfunds [Sobrenome] [valor]."
+      },
+      {
+        "q": "Como parar o envelhecimento no The Sims 2?",
+        "a": "Abra o console com Ctrl + Shift + C e digite aging off."
+      },
+      {
+        "q": "Os cheats funcionam na Legacy Collection do The Sims 2?",
+        "a": "Sim, os mesmos comandos funcionam na Legacy Collection."
+      }
+    ],
+    "sources": []
+  }
+}

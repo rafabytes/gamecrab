@@ -1,0 +1,555 @@
+{
+  "slug": "gta-san-andreas",
+  "title": "Cheats de GTA San Andreas",
+  "order": 5,
+  "platforms": [
+    "PlayStation 2",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "franchise": "GTA",
+  "excerpt": "Os códigos clássicos de GTA San Andreas para PS2, PS4, PS5, Xbox e PC: HESOYAM, jetpack, tanque, armas, carros voadores e muito mais.",
+  "content": "<p>Poucos jogos têm cheats tão famosos quanto o <strong>GTA San Andreas</strong>. Do <strong>HESOYAM</strong> (vida, colete e $250 mil) ao <strong>jetpack</strong>, os códigos marcaram uma geração no <strong>PS2</strong>, e as mesmas sequências funcionam na <strong>Definitive Edition</strong> para PS4, PS5 e Xbox.</p><p>No PC clássico, é só digitar a palavra durante o jogo. Abaixo estão os códigos organizados por categoria, com versão em botões e em texto.</p>",
+  "data": {
+    "seo_title": "Códigos de GTA San Andreas (PS2, PS4, PS5, Xbox e PC)",
+    "seo_description": "Todos os códigos de GTA San Andreas: HESOYAM, jetpack, tanque, armas, carro voador e procurado. Sequências para PS2/PS4/PS5, Xbox e PC.",
+    "kicker": "Rockstar Games · 2004",
+    "developer": "Rockstar Games",
+    "release": "2004",
+    "accent": "#d97a1c",
+    "updated": "2026-11-18",
+    "notice": {
+      "tone": "warn",
+      "title": "Atenção ao save",
+      "text": "Na Definitive Edition, cheats <strong>bloqueiam troféus/conquistas permanentemente no save</strong>. E alguns cheats que mudam o mundo (tráfego, pedestres) ficam gravados. Use um save separado para brincar."
+    },
+    "how_to": [
+      {
+        "title": "PS2, PS4, PS5 e Xbox",
+        "steps": [
+          "Durante o jogo, sem pausar, digite a sequência de botões rapidamente.",
+          "A mensagem <strong>“Cheat activated”</strong> confirma.",
+          "As mesmas sequências valem para PS3, PS4 e PS5, com exceções na Definitive Edition indicadas em cada código. No Xbox: ✕ = A, ○ = B, □ = X, △ = Y, L1/R1 = LB/RB, L2/R2 = LT/RT."
+        ]
+      },
+      {
+        "title": "PC (versão clássica)",
+        "steps": [
+          "Durante o jogo, digite a palavra do cheat (ex.: <code>HESOYAM</code>). Não precisa de console nem de Enter.",
+          "Letras maiúsculas ou minúsculas tanto faz."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "key": "ps",
+        "label": "PlayStation",
+        "type": "buttons"
+      },
+      {
+        "key": "xbox",
+        "label": "Xbox (Definitive)",
+        "type": "buttons",
+        "derive": "ps"
+      },
+      {
+        "key": "pc",
+        "label": "PC",
+        "type": "text"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Vida, dinheiro e personagem",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Vida, colete e $250.000 (HESOYAM)",
+            "effect": "Enche vida e colete, conserta o veículo atual e dá $250.000.",
+            "codes": {
+              "ps": "R1, R2, L1, X, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+              "pc": "HESOYAM"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Vida infinita",
+            "effect": "Não perde vida (quedas grandes e explosões ainda podem matar).",
+            "codes": {
+              "ps": "DOWN, X, RIGHT, LEFT, RIGHT, R1, RIGHT, DOWN, UP, TRIANGLE",
+              "pc": "BAGUVIX"
+            },
+            "status": "confirmado",
+            "note": "Segundo a GTABase, removido da Definitive Edition no PlayStation."
+          },
+          {
+            "name": "Fôlego infinito",
+            "effect": "Não se afoga embaixo d'água.",
+            "codes": {
+              "ps": "DOWN, LEFT, L1, DOWN, DOWN, R2, DOWN, L2, DOWN",
+              "pc": "CVWKXAM"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Músculo no máximo",
+            "effect": "CJ fica musculoso.",
+            "codes": {
+              "ps": "TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, LEFT",
+              "pc": "BUFFMEUP"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Gordura no máximo",
+            "effect": "CJ fica gordo.",
+            "codes": {
+              "ps": "TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, DOWN",
+              "pc": "BTCDBCB"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Magro",
+            "effect": "Zera a gordura e o músculo.",
+            "codes": {
+              "ps": "TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, RIGHT",
+              "pc": "KVGYZQK"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Sex appeal no máximo",
+            "effect": "Atração no máximo.",
+            "codes": {
+              "ps": "CIRCLE, TRIANGLE, TRIANGLE, UP, CIRCLE, R1, L2, UP, TRIANGLE, L1, L1, L1",
+              "pc": "HELLOLADIES"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Habilidades com veículos no máximo",
+            "effect": "Máximo em todas as habilidades com veículos.",
+            "codes": {
+              "ps": "SQUARE, L2, X, R1, L2, L2, LEFT, R1, RIGHT, L1, L1, L1"
+            },
+            "status": "confirmado",
+            "note": "No PC, as fontes divergem sobre qual código corresponde a este efeito."
+          },
+          {
+            "name": "Super pulo",
+            "effect": "Pulos muito mais altos.",
+            "codes": {
+              "ps": "UP, UP, TRIANGLE, TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, R2, R2",
+              "pc": "KANGAROO"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Super soco",
+            "effect": "Socos arremessam os inimigos.",
+            "codes": {
+              "ps": "UP, LEFT, X, TRIANGLE, R1, CIRCLE, CIRCLE, CIRCLE, L2",
+              "pc": "IAVENJQ"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Nunca sentir fome",
+            "effect": "CJ não precisa comer.",
+            "codes": {
+              "ps": "SQUARE, L2, R1, TRIANGLE, UP, SQUARE, L2, UP, X",
+              "pc": "AEDUWNV"
+            },
+            "status": "confirmado",
+            "note": "Segundo a GTABase, removido da Definitive Edition no PlayStation."
+          }
+        ]
+      },
+      {
+        "title": "Armas",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Pacote de armas 1",
+            "effect": "Armas de nível básico (inclui soco-inglês, pistola, escopeta).",
+            "codes": {
+              "ps": "R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+              "pc": "LXGIWYL"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Pacote de armas 2",
+            "effect": "Armas de nível intermediário.",
+            "codes": {
+              "ps": "R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, LEFT",
+              "pc": "KJKSZPJ"
+            },
+            "status": "confirmado",
+            "note": "No PC também funciona <code>PROFESSIONALSKIT</code>."
+          },
+          {
+            "name": "Pacote de armas 3",
+            "effect": "Armas pesadas.",
+            "codes": {
+              "ps": "R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, DOWN",
+              "pc": "UZUMYMW"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Munição infinita",
+            "effect": "Munição infinita e sem recarregar.",
+            "codes": {
+              "ps": "L1, R1, SQUARE, R1, LEFT, R2, R1, LEFT, SQUARE, DOWN, L1, L1",
+              "pc": "FULLCLIP"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Nível de procurado",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Nunca ser procurado",
+            "effect": "A polícia nunca te persegue.",
+            "codes": {
+              "ps": "CIRCLE, RIGHT, CIRCLE, RIGHT, LEFT, SQUARE, TRIANGLE, UP",
+              "pc": "AEZAKMI"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Tirar estrelas de procurado",
+            "effect": "Zera o nível de procurado.",
+            "codes": {
+              "ps": "R1, R1, CIRCLE, R2, UP, DOWN, UP, DOWN, UP, DOWN",
+              "pc": "ASNAEB"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "+2 estrelas de procurado",
+            "effect": "Aumenta o nível de procurado.",
+            "codes": {
+              "ps": "R1, R1, CIRCLE, R2, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT",
+              "pc": "OSRBLHH"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "6 estrelas de procurado",
+            "effect": "Nível máximo de procurado.",
+            "codes": {
+              "ps": "CIRCLE, RIGHT, CIRCLE, RIGHT, LEFT, SQUARE, X, DOWN",
+              "pc": "LJSPQK"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Veículos",
+        "intro": "O veículo aparece à frente do CJ.",
+        "cheats": [
+          {
+            "name": "Jetpack",
+            "effect": "Mochila a jato.",
+            "codes": {
+              "ps": "L1, L2, R1, R2, UP, DOWN, LEFT, RIGHT, L1, L2, R1, R2, UP, DOWN, LEFT, RIGHT",
+              "pc": "ROCKETMAN"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Tanque (Rhino)",
+            "effect": "Tanque de guerra.",
+            "codes": {
+              "ps": "CIRCLE, CIRCLE, L1, CIRCLE, CIRCLE, CIRCLE, L1, L2, R1, TRIANGLE, CIRCLE, TRIANGLE",
+              "pc": "AIWPRTON"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Caça Hydra",
+            "effect": "Jato de combate com decolagem vertical.",
+            "codes": {
+              "ps": "TRIANGLE, TRIANGLE, SQUARE, CIRCLE, X, L1, L1, DOWN, UP",
+              "pc": "JUMPJET"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Helicóptero Hunter",
+            "effect": "Helicóptero de ataque.",
+            "codes": {
+              "ps": "CIRCLE, X, L1, CIRCLE, CIRCLE, L1, CIRCLE, R1, R2, L2, L1, L1",
+              "pc": "OHDUDE"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Monster truck",
+            "effect": "Caminhonete monstro.",
+            "codes": {
+              "ps": "RIGHT, UP, R1, R1, R1, DOWN, TRIANGLE, TRIANGLE, X, CIRCLE, L1, L1",
+              "pc": "AGBDLCID"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Quadriciclo",
+            "effect": "Quadriciclo.",
+            "codes": {
+              "ps": "LEFT, LEFT, DOWN, DOWN, UP, UP, SQUARE, CIRCLE, TRIANGLE, R1, R2",
+              "pc": "AKJJYGLC"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Limusine",
+            "effect": "Limusine Stretch.",
+            "codes": {
+              "ps": "R2, UP, L2, LEFT, LEFT, R1, L1, CIRCLE, RIGHT",
+              "pc": "KRIJEBR"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Hotring Racer",
+            "effect": "Carro de corrida.",
+            "codes": {
+              "ps": "R1, CIRCLE, R2, RIGHT, L1, L2, X, X, SQUARE, R1",
+              "pc": "PDNEJOH"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Bloodring Banger",
+            "effect": "Carro de demolição.",
+            "codes": {
+              "ps": "DOWN, R1, CIRCLE, L2, L2, X, R1, L1, LEFT, LEFT",
+              "pc": "CQZIJMB"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Carrinho de golfe (Caddy)",
+            "effect": "Carrinho de golfe.",
+            "codes": {
+              "ps": "CIRCLE, L1, UP, R1, L2, X, R1, L1, CIRCLE, X",
+              "pc": "RZHSUEW"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Avião acrobático",
+            "effect": "Avião de acrobacias (Stuntplane).",
+            "codes": {
+              "ps": "CIRCLE, UP, L1, L2, DOWN, R1, L1, L1, LEFT, LEFT, X, TRIANGLE",
+              "pc": "URKQSRK"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Paraquedas",
+            "effect": "Dá um paraquedas.",
+            "codes": {
+              "ps": "LEFT, RIGHT, L1, L2, R1, R2, R2, UP, DOWN, RIGHT, L1",
+              "pc": "AIYPWZQP"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Veículos e trânsito",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Carros voadores",
+            "effect": "Carros voam ao acelerar.",
+            "codes": {
+              "ps": "SQUARE, DOWN, L2, UP, L1, CIRCLE, UP, X, LEFT",
+              "pc": "RIPAZHA"
+            },
+            "status": "confirmado",
+            "note": "Na Definitive Edition (PS4/PS5), a GTABase indica outra sequência: ↑ ↓ L1 R1 L1 → ← L1 ←."
+          },
+          {
+            "name": "Barcos voadores",
+            "effect": "Barcos voam.",
+            "codes": {
+              "ps": "R2, CIRCLE, UP, L1, RIGHT, R1, RIGHT, UP, SQUARE, TRIANGLE",
+              "pc": "AFSNMSMW"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Nitro infinito",
+            "effect": "Carros com nitro ilimitado.",
+            "codes": {
+              "ps": "LEFT, TRIANGLE, R1, L1, UP, SQUARE, TRIANGLE, DOWN, CIRCLE, L2, L1, L1",
+              "pc": "SPEEDFREAK"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Super pulo de bicicleta",
+            "effect": "Pulos altíssimos de bicicleta.",
+            "codes": {
+              "ps": "TRIANGLE, SQUARE, CIRCLE, CIRCLE, SQUARE, CIRCLE, CIRCLE, L1, L2, L2, R1, R2",
+              "pc": "CJPHONEHOME"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Carros invisíveis",
+            "effect": "Só as rodas dos carros aparecem.",
+            "codes": {
+              "ps": "TRIANGLE, L1, TRIANGLE, R2, SQUARE, L1, L1",
+              "pc": "WHEELSONLYPLEASE"
+            },
+            "status": "confirmado",
+            "note": "Segundo a GTABase, removido da Definitive Edition no PlayStation."
+          },
+          {
+            "name": "Trânsito de carros pretos",
+            "effect": "Todos os carros na rua ficam pretos.",
+            "codes": {
+              "ps": "CIRCLE, L2, UP, R1, LEFT, X, R1, L1, LEFT, CIRCLE",
+              "pc": "IOWDLAC"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Trânsito de carros rosa",
+            "effect": "Todos os carros na rua ficam rosa.",
+            "codes": {
+              "ps": "CIRCLE, L1, DOWN, L2, LEFT, X, R1, L1, RIGHT, CIRCLE",
+              "pc": "LLQPFBN"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Explodir todos os carros",
+            "effect": "Explode os veículos ao redor.",
+            "codes": {
+              "ps": "R2, L2, R1, L1, L2, R2, SQUARE, TRIANGLE, CIRCLE, TRIANGLE, L2, L1",
+              "pc": "CPKTNWT"
+            },
+            "status": "confirmado"
+          }
+        ]
+      },
+      {
+        "title": "Mundo",
+        "intro": "",
+        "cheats": [
+          {
+            "name": "Clima ensolarado",
+            "effect": "Céu limpo.",
+            "codes": {
+              "ps": "R2, X, L1, L1, L2, L2, L2, DOWN",
+              "pc": "AFZLLQLL"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Clima chuvoso",
+            "effect": "Chuva.",
+            "codes": {
+              "ps": "R2, X, L1, L1, L2, L2, L2, CIRCLE",
+              "pc": "AUIFRVQS"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Sempre meia-noite",
+            "effect": "O relógio para à meia-noite.",
+            "codes": {
+              "ps": "SQUARE, L1, R1, RIGHT, X, UP, L1, LEFT, LEFT",
+              "pc": "XJVSNAJ"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Tempo mais rápido",
+            "effect": "O jogo fica acelerado.",
+            "codes": {
+              "ps": "TRIANGLE, UP, RIGHT, DOWN, L2, L1, SQUARE",
+              "pc": "SPEEDITUP"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Câmera lenta",
+            "effect": "O jogo fica em câmera lenta.",
+            "codes": {
+              "ps": "TRIANGLE, UP, RIGHT, DOWN, SQUARE, R2, R1",
+              "pc": "SLOWITDOWN"
+            },
+            "status": "confirmado"
+          },
+          {
+            "name": "Tumulto (pedestres brigando)",
+            "effect": "Os pedestres se atacam.",
+            "codes": {
+              "ps": "DOWN, LEFT, UP, LEFT, X, R2, R1, L2, L1",
+              "pc": "STATEOFEMERGENCY"
+            },
+            "status": "confirmado",
+            "note": "Não salve com esse cheat ativo."
+          },
+          {
+            "name": "Suicídio",
+            "effect": "CJ morre na hora (útil para sair de bugs).",
+            "codes": {
+              "ps": "RIGHT, L2, DOWN, R1, LEFT, LEFT, R1, L1, L2, L1",
+              "pc": "SZCMAWO"
+            },
+            "status": "confirmado"
+          }
+        ]
+      }
+    ],
+    "tips": [
+      "No PS2, digite as sequências com o personagem parado. Errou um botão? Comece do zero.",
+      "Na <strong>Definitive Edition</strong>, usar cheats <strong>desativa troféus e conquistas de forma permanente naquele save</strong>. Use um save separado.",
+      "Cheats de vida/armas (HESOYAM, LXGIWYL) são seguros para salvar; os que mexem no mundo, nem sempre."
+    ],
+    "faq": [
+      {
+        "q": "Qual o código de dinheiro do GTA San Andreas?",
+        "a": "HESOYAM no PC. No PlayStation é R1, R2, L1, ✕, ←, ↓, →, ↑, ←, ↓, →, ↑. Ele dá $250.000, vida e colete cheios e conserta o veículo."
+      },
+      {
+        "q": "Qual o código do jetpack no GTA San Andreas?",
+        "a": "ROCKETMAN no PC. No PlayStation é L1, L2, R1, R2, ↑, ↓, ←, →, L1, L2, R1, R2, ↑, ↓, ←, →."
+      },
+      {
+        "q": "Os códigos do PS2 funcionam no PS4 e PS5?",
+        "a": "Na maioria, sim: a Definitive Edition aceita as sequências do PS2, mas alguns cheats foram removidos ou mudaram (como carros voadores). Lá, os cheats também desativam troféus naquele save."
+      },
+      {
+        "q": "Como tirar a polícia no GTA San Andreas?",
+        "a": "Use ASNAEB (PC) ou R1, R1, ○, R2, ↑, ↓, ↑, ↓, ↑, ↓ (PlayStation) para zerar as estrelas, ou AEZAKMI para nunca ser procurado."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GTABase — San Andreas cheats (PS5/PS4/PS3/PS2)",
+        "url": "https://www.gtabase.com/gta-san-andreas/gta-san-andreas-cheats-ps5-ps4-ps3-ps2"
+      },
+      {
+        "label": "GTABase — San Andreas cheats (PC/Definitive)",
+        "url": "https://www.gtabase.com/gta-san-andreas/gta-san-andreas-cheats-pc-definitive-edition"
+      }
+    ]
+  }
+}

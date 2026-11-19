@@ -1,0 +1,103 @@
+{
+  "slug": "gta-6",
+  "title": "Cheats de GTA 6",
+  "order": 1,
+  "platforms": ["PlayStation 5", "Xbox Series X|S"],
+  "franchise": "GTA",
+  "excerpt": "Todos os códigos de GTA 6 divulgados até agora para PS5 e Xbox Series: dinheiro, munição infinita, clima, veículos e filtros de tela, com o que é preciso para desbloquear cada um.",
+  "content": "<p>O <strong>GTA 6</strong> tem lançamento marcado para <strong>19 de novembro de 2026</strong> no PS5 e no Xbox Series X|S, e a lista de <strong>cheats de GTA 6</strong> já circula. A novidade em relação aos jogos anteriores: os códigos não funcionam logo de cara. Cada cheat precisa ser <strong>desbloqueado</strong> com um feito no jogo antes de a combinação ter efeito.</p><p>Abaixo estão as combinações já divulgadas, com o requisito de desbloqueio de cada uma. Como o jogo ainda não saiu, todos os códigos aparecem como <strong>“A confirmar”</strong>. Vamos atualizar o status conforme testarmos.</p>",
+  "data": {
+    "seo_title": "Cheats de GTA 6 (PS5 e Xbox): todos os códigos divulgados",
+    "seo_description": "Lista de cheats de GTA 6 para PS5 e Xbox Series: $250 mil, munição infinita, foco ilimitado, clima e filtros. Veja como desbloquear e ativar cada código.",
+    "kicker": "Rockstar Games · 2026",
+    "developer": "Rockstar Games",
+    "release": "19/11/2026",
+    "accent": "#e8337f",
+    "updated": "2026-11-18",
+    "notice": {
+      "tone": "warn",
+      "title": "Códigos ainda não confirmados",
+      "text": "O GTA 6 lança em 19/11/2026. As combinações abaixo foram publicadas pela GTABase e ainda <strong>não foram confirmadas</strong> por outras fontes nem testadas pela equipe gameCrab. Outros sites ainda dizem que não há cheats oficiais confirmados. Use por sua conta e salve o jogo antes."
+    },
+    "how_to": [
+      {
+        "title": "Desbloquear",
+        "steps": [
+          "Os cheats não ficam disponíveis desde o início: a lista aparece em <strong>Menu de Progresso › Códigos de trapaça</strong>.",
+          "Cada cheat tem o próprio requisito (ex.: concluir a história, ganhar medalhas no estande de tiro).",
+          "Digitar a combinação de um cheat ainda bloqueado não tem efeito nenhum."
+        ]
+      },
+      {
+        "title": "Ativar (PS5)",
+        "steps": [
+          "Pressione <strong>↑</strong> no direcional para abrir o celular.",
+          "Segure <strong>L1</strong> e pressione <strong>R1</strong>.",
+          "Digite a combinação do cheat no direcional.",
+          "Segundo a fonte, as sequências do direcional são as mesmas no Xbox Series X|S."
+        ]
+      }
+    ],
+    "variants": [
+      { "key": "dpad", "label": "Direcional", "type": "buttons" }
+    ],
+    "sections": [
+      {
+        "title": "Cheats de jogador",
+        "intro": "",
+        "cheats": [
+          { "name": "Dinheiro: +$250.000", "effect": "Adiciona $250.000 na hora. Segundo a fonte, é o primeiro cheat de dinheiro da série principal desde GTA San Andreas.", "codes": { "dpad": "UP, RIGHT, DOWN, LEFT, UP, LEFT, DOWN, RIGHT" }, "status": "a-confirmar", "unlock": "Concluir a história." },
+          { "name": "Aumentar nível de alerta (heat)", "effect": "Eleva o nível de atenção da polícia no mapa todo.", "codes": { "dpad": "LEFT, DOWN, RIGHT, DOWN, UP, DOWN, UP" }, "status": "a-confirmar", "unlock": "Escapar de 3 estrelas de procurado 25 vezes." },
+          { "name": "Foco ilimitado", "effect": "O medidor de foco não acaba.", "codes": { "dpad": "DOWN, UP, UP, DOWN, UP, DOWN, UP, DOWN, UP, RIGHT" }, "status": "a-confirmar", "unlock": "Concluir a história." },
+          { "name": "Colete à prova de balas", "effect": "Adiciona colete ao equipamento.", "codes": { "dpad": "DOWN, UP, LEFT, UP, UP, UP, UP, UP, DOWN, DOWN" }, "status": "a-confirmar", "unlock": "Concluir 100 sessões de treino." }
+        ]
+      },
+      {
+        "title": "Cheats de combate",
+        "intro": "",
+        "cheats": [
+          { "name": "Munição máxima", "effect": "Recarrega a munição de todas as armas.", "codes": { "dpad": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, UP, DOWN, LEFT" }, "status": "a-confirmar", "unlock": "25 medalhas de bronze (ou melhor) nos estandes de tiro." },
+          { "name": "Munição infinita", "effect": "A munição nunca acaba.", "codes": { "dpad": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, DOWN, DOWN, DOWN" }, "status": "a-confirmar", "unlock": "25 medalhas de prata (ou melhor) nos estandes de tiro." },
+          { "name": "Sem recarregar", "effect": "Atira sem precisar recarregar.", "codes": { "dpad": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, DOWN, DOWN, UP" }, "status": "a-confirmar", "unlock": "25 medalhas de ouro nos estandes de tiro." },
+          { "name": "Força de ataque", "effect": "Tiros e golpes corpo a corpo arremessam os alvos para longe.", "codes": { "dpad": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, DOWN, UP, DOWN" }, "status": "a-confirmar", "unlock": "Concluir a história." },
+          { "name": "Bolas explosivas", "effect": "Bolas esportivas explodem ao bater.", "codes": { "dpad": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, DOWN, UP, RIGHT" }, "status": "a-confirmar", "unlock": "Atingir 20 inimigos com dano explosivo." },
+          { "name": "Força de veículo", "effect": "Pessoas atropeladas são arremessadas.", "codes": { "dpad": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, LEFT, UP, DOWN" }, "status": "a-confirmar", "unlock": "Eliminar 25 inimigos com um veículo." }
+        ]
+      },
+      {
+        "title": "Veículos",
+        "intro": "A fonte lista 21 veículos para gerar, entre eles o tanque Hauners Rhino. Só 3 têm combinação divulgada até agora; os outros serão adicionados quando houver confirmação.",
+        "cheats": [
+          { "name": "Gerar Maibatsu Boomazoom", "effect": "Cria o veículo à sua frente.", "codes": { "dpad": "LEFT, UP, RIGHT, DOWN, LEFT, LEFT, UP, LEFT" }, "status": "a-confirmar", "unlock": "Concluir 5 desafios de compras." },
+          { "name": "Gerar caminhão de bombeiros MTL Pumper", "effect": "Cria o caminhão de bombeiros.", "codes": { "dpad": "LEFT, UP, RIGHT, DOWN, LEFT, RIGHT, RIGHT, UP" }, "status": "a-confirmar", "unlock": "Descobrir o MTL Pumper no Menu de Progresso." },
+          { "name": "Gerar trator HVY Bulldozer", "effect": "Cria o trator de esteira.", "codes": { "dpad": "LEFT, UP, RIGHT, DOWN, LEFT, RIGHT, RIGHT, DOWN" }, "status": "a-confirmar", "unlock": "Descobrir o Bulldozer no Menu de Progresso." }
+        ]
+      },
+      {
+        "title": "Ambiente e filtros de tela",
+        "intro": "Os filtros de tela são novidade no GTA 6: mudam o visual inteiro do jogo. A fonte cita 16 filtros; estes são os que já têm combinação.",
+        "cheats": [
+          { "name": "Alternar clima", "effect": "Passa para o próximo tipo de clima.", "codes": { "dpad": "DOWN, RIGHT, UP, DOWN, RIGHT, UP, RIGHT" }, "status": "a-confirmar", "unlock": "Concluir a história." },
+          { "name": "Filtro Cataclismo", "effect": "Enche o mundo de fumaça densa.", "codes": { "dpad": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, RIGHT" }, "status": "a-confirmar", "unlock": "Descobrir o Martha's Vamos no Menu de Progresso." },
+          { "name": "Filtro Casa de Bonecas", "effect": "Cores vibrantes e proporção de tela estreita.", "codes": { "dpad": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT" }, "status": "a-confirmar", "unlock": "Passar 8 horas com o(a) parceiro(a)." },
+          { "name": "Filtro Glória Desbotada", "effect": "Visual de TV de tubo colorida antiga.", "codes": { "dpad": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, LEFT, RIGHT" }, "status": "a-confirmar", "unlock": "Roubar 50 lojas com o(a) parceiro(a)." }
+        ]
+      }
+    ],
+    "tips": [
+      "<strong>Salve antes de usar qualquer cheat.</strong> Segundo a fonte, ativar um código desativa o salvamento até você sair do jogo; o progresso feito depois disso se perde.",
+      "Troféus e conquistas ficam desativados <strong>só na sessão atual</strong>: reinicie o jogo e carregue o save para voltar a ganhá-los.",
+      "Cheats funcionam apenas no <strong>modo história</strong>, nunca no online."
+    ],
+    "faq": [
+      { "q": "GTA 6 tem cheats?", "a": "Sim, segundo a GTABase o jogo tem 61 cheats, desbloqueados em Menu de Progresso › Códigos de trapaça. Só 17 têm combinação divulgada até agora, e nenhum foi confirmado de forma independente antes do lançamento (19/11/2026)." },
+      { "q": "Usar cheats no GTA 6 desativa troféus?", "a": "Segundo a fonte, sim, mas só na sessão atual. O jogo também bloqueia o salvamento até você sair. Reinicie e carregue o save para voltar a ganhar troféus." },
+      { "q": "Existe cheat de vida infinita ou invencibilidade no GTA 6?", "a": "Não. Segundo a fonte, nenhum dos 61 cheats dá vida infinita ou invencibilidade." },
+      { "q": "Tem cheat de dinheiro no GTA 6?", "a": "Sim: o cheat de +$250.000 (↑ → ↓ ← ↑ ← ↓ →), liberado depois de concluir a história. Ainda está marcado como “a confirmar”." },
+      { "q": "Os cheats de GTA 6 funcionam no online?", "a": "Não. Os códigos funcionam apenas no modo história." }
+    ],
+    "sources": [
+      { "label": "GTABase — Cheats de GTA 6 para PS5", "url": "https://www.gtabase.com/pt/gta-6/gta-6-cheats-ps5-cheat-codes" }
+    ]
+  }
+}
